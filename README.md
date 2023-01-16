@@ -58,6 +58,4 @@ Postgres недостаточно памяти
 
 1)По возможности добавить ресурсов RAM, провести отключить или перенести ненужные приложения.
 
-^G Get Help      ^O Write Out     ^W Where Is      ^K Cut Text      ^J Justify       ^C Cur Pos       M-U Undo         M-A Mark Text    M-] To Bracket   M-Q Previous     ^B Back          ^◀ Prev Word
-^X Exit          ^R Read File     ^\ Replace       ^U Paste Text    ^T To Spell      ^_ Go To Line    M-E Redo         M-6 Copy Text    ^Q Where Was     M-W Next         ^F Forward       ^▶ Next Word
 ```
